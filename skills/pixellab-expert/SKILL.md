@@ -183,8 +183,8 @@ Standard humanoid characters use skeleton-based generation with full style contr
 | `body_type` | humanoid | humanoid / quadruped | |
 | `view` | low top-down | low top-down / high top-down / side | |
 | `outline` | single color black outline | single color black outline / single color outline / selective outline / lineless | |
-| `shading` | basic shading | flat / basic / medium / detailed | |
-| `detail` | medium detail | low / medium / high | |
+| `shading` | basic shading | flat shading / basic shading / medium shading / detailed shading / highly detailed shading | |
+| `detail` | medium detail | low detail / medium detail / high detail / highly detailed | |
 | `ai_freedom` | 750 | 100-999 | 100 = strict adherence, 999 = creative interpretation |
 | `proportions` | default preset | JSON string (see below) | Humanoid only |
 
